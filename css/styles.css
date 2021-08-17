@@ -1,0 +1,15 @@
+body {
+  background-color: #2196f3;
+}
+h1 {
+  color: #e3f2fd;
+}
+div {
+  line-height: 1.8em;
+  background: darkgreen;
+  border-style: solid;
+}
+
+.about {
+  background-color: lightblue;
+}
