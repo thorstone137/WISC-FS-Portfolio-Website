@@ -1,15 +1,26 @@
 body {
   background-color: #2196f3;
+  padding: 2.5em;
+  border-radius: 3px;
 }
+
+.pic-style {
+  border-radius: 5px;
+  border: 10px solid;
+  border-color: #0d47a1;
+}
+
 h1 {
   color: #e3f2fd;
-}
-div {
-  line-height: 1.8em;
-  background: darkgreen;
-  border-style: solid;
 }
 
 .about {
   background-color: lightblue;
+  line-height: 1.8em;
+  border-style: solid;
+  padding: 5em;
+}
+
+.aboutme {
+  padding-left: 5em;
 }
